@@ -1,0 +1,3 @@
+jobseeker_id,jobseeker_name,job_id,job_title,matching_skill_count,matching_skill_percent
+1,Test1,1,TestJob1,2,67
+1,Test1,2,TestJob2,1,33
